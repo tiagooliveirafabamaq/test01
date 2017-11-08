@@ -1,5 +1,8 @@
 Testing commit
+<<<<<<< HEAD
 Testing merge
 Testing Edit commit
+=======
+Testing remove commit to merge
 
 >>>>>>> TestMergeBranch
